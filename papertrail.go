@@ -5,8 +5,7 @@ import (
 	"net"
 	"os"
 	"time"
-
-	"github.com/Sirupsen/logrus"
+	"github.com/RevBoss/logrus"
 )
 
 const (
